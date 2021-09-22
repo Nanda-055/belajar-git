@@ -2,3 +2,4 @@ WPU RESOLUSI
 -konsisten untuk belajar IT
 -berikan perubahan banyak atas yang akan kamu buat
 -testing
+- fundamental data structure
